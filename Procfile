@@ -1,0 +1,1 @@
+web: gunicorn wcpjt.wsgi --log-file -
