@@ -1,1 +1,1 @@
-worker: gunicorn wcpjt.wsgi --log-file -
+web: gunicorn firstproject.wsgi --log-file -
