@@ -1,1 +1,1 @@
-web: gunicorn wcpjt.wsgi --log-file -
+worker: gunicorn wcpjt.wsgi --log-file -
